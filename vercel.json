@@ -1,0 +1,8 @@
+{
+    "functions": {
+          "lib/server/server.cjs": {
+                  "includeFiles": "{translations,lib,views,public,static,bundle,assets,swagger.yaml}/**",
+                  "maxDuration": 60
+          }
+    }
+}
